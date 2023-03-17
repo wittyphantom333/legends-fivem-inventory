@@ -1,5 +1,5 @@
-<div align='center'><img src='https://user-images.githubusercontent.com/65407488/147992899-93998c0a-75fb-4055-8c06-8da8c49342d6.png'/></div>
-<div align='center'><h3><a href='https://overextended.github.io/docs/ox_inventory/'>Read the documentation for setup, installation, and integration</a></h3></div>
+<div align='center'><img src='https://avatars.githubusercontent.com/u/127198147?s=200&v=4'/></div>
+<div align='center'><h3><a href='https://legendssystems.github.io/docs/legendsInventory/'>legendsInventory Documentation</a></h3></div>
 
 # Framework
 
@@ -54,27 +54,5 @@ Once you have registered, generate an API key and add `set datadog:key 'apikey'`
 
 - Dumpsters, drops, and non-player vehicles.
 - Loot tables allow users to find random items in dumpsters and unowned vehicles.
-
-<br><div><h4 align='center'><a href='https://discord.gg/mEM6eYdXPm'>Discord Server</a></h4></div><br>
-
-<table><tr><td><h3 align='center'>Legal Notices</h2></tr></td>
-<tr><td>
-Ox Inventory
-
-Copyright © 2022 [Linden](https://github.com/thelindat), [Dunak](https://github.com/dunak-debug), [Luke](https://github.com/LukeWasTakenn)
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.
-If not, see <https://www.gnu.org/licenses/>
 
 </td></tr></table>
