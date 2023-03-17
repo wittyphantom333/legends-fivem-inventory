@@ -8,7 +8,7 @@ on:
 jobs:
   create-release:
     name: Build and Create Tagged release
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
 
     steps:
       - name: Install archive tools
