@@ -11,9 +11,6 @@ jobs:
     runs-on: self-hosted
 
     steps:
-      - name: Install archive tools
-        run: apt-get install zip
-
       - name: Checkout source code
         uses: actions/checkout@v2
         with:
