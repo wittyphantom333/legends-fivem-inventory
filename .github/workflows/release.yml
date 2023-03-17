@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Install archive tools
-        run: apt install zip
+        run: apt-get install zip
 
       - name: Checkout source code
         uses: actions/checkout@v2
